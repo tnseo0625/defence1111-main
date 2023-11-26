@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UiScene/main scene.unity
+    guid: 0f287971ed6854349ac89ef8de1b2e6c
+  - enabled: 1
+    path: Assets/UiScene/level scene.unity
+    guid: 562817ca56d6eeb48bcbbb600c208589
+  - enabled: 1
+    path: Assets/UiScene/level1 scene.unity
+    guid: e795a0e6b2696a947ab18e78c867134a
+  - enabled: 1
+    path: Assets/UiScene/level2 scene.unity
+    guid: c07fe20218dce6946acf708ed84b7ce0
+  - enabled: 1
+    path: Assets/UiScene/level3 scene.unity
+    guid: 03a41eb4b241dac429f5a9810cd67f97
+  - enabled: 1
+    path: Assets/UiScene/level4 scene.unity
+    guid: f6e9a100e1c8f324cbb4dfb8bdd7a6fe
+  - enabled: 1
+    path: Assets/UiScene/level5 scene.unity
+    guid: 91b49348626ce134987629506a61777e
+  - enabled: 1
+    path: "Assets/UiScene/\uB3C4\uAC10 scene.unity"
+    guid: 5412a075387bd8d48ade38e295d1fafe
+  - enabled: 1
+    path: Assets/UiScene/sound scene.unity
+    guid: 7d56df01997d5a84e9724ef467e001b6
+  - enabled: 1
+    path: "Assets/UiScene/\uC544\uAD70 scene.unity"
+    guid: 81859cbf89e54ad498d161150a42844a
+  m_configObjects: {}
